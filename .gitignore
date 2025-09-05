@@ -1,0 +1,34 @@
+# Arquivos e pastas do sistema
+.DS_Store
+.vscode/
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos de bytecode e de sistema do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log e de banco de dados
+*.log
+*.sqlite3
+db.sqlite3
+
+# Arquivos gerados por ferramentas de teste
+.coverage
+.pytest_cache/
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de configuração específicos do usuário
+config.json
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
