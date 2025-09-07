@@ -8,6 +8,9 @@
   ### Backlog das histórias
   ![backlog1](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/backlog_historias.png)
 
+   ### Link para o arquivo doc com as histórias
+  ![historias](https://docs.google.com/document/d/1KayEPV1MaKPZ35tbp7ELZTTsZCNPEVOBjSXBdGyzNq4/edit?usp=sharing)
+
 </details>
 
 ---
