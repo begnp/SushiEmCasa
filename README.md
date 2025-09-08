@@ -14,6 +14,19 @@
    ### Quadro da sprint
   ![sprint](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/sprint_historias.png)
 
+   ### Protótipos no Figma:
+  [História 1: Home(Inicio)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=118-664&t=lUaHGZnOo4t34knr-1)
+  [Historia 2: Basket(Carrinho)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=1-10&t=lUaHGZnOo4t34knr-1)
+  [Historia 3: Orders(Pedidos)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=168-526&t=lUaHGZnOo4t34knr-1)
+  [Historia 4: Contact(Contato)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=0-1&t=lUaHGZnOo4t34knr-1)
+ ###Este projeto foi criado para demonstrar o protótipo de baixa fidelidade da aplicação web do SushiEmCasa, seguindo as histórias. Para acessá-lo basta:
+ -Clicar no link da história que deseja acessar
+ -Se você não tiver uma conta no Figma, crie uma conta gratuita.
+ -Abra o arquivo no Figma e explore as diferentes telas e componentes.
+
+
+  
+
 </details>
 
 ---
