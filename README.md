@@ -25,6 +25,8 @@
  -Abra o arquivo no Figma e explore as diferentes telas e componentes.<br>
 ![Exemplo](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/figma-prototipo1.png)
 
+ ### ▶️ ScreenCast do Protótipo no Youtube:
+ [screencast](https://youtu.be/U1-svoPBy7I?si=bfKGpyERBseCtbzY)
   
 
 </details>
