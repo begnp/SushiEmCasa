@@ -23,7 +23,7 @@
  -Clicar no link da história que deseja acessar<br>
  -Se você não tiver uma conta no Figma, crie uma conta gratuita.<br>
  -Abra o arquivo no Figma e explore as diferentes telas e componentes.<br>
-
+![Exemplo](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/figma-prototipo1.png)
 
   
 
