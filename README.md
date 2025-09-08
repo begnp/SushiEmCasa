@@ -11,6 +11,9 @@
    ### Link para o arquivo doc com as histórias
   [historias](https://docs.google.com/document/d/1KayEPV1MaKPZ35tbp7ELZTTsZCNPEVOBjSXBdGyzNq4/edit?usp=sharing)
 
+   ### Quadro da sprint
+  ![sprint](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/sprint_historias.png)
+
 </details>
 
 ---
