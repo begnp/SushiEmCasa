@@ -6,24 +6,26 @@
   <summary><h2><strong>Entrega 1</strong></h2></summary>
   
   ### 📄 Backlog das histórias
-  ![backlog1](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/backlog_historias.png)
+  ![backlog1](https://github.com/user-attachments/assets/7be62ea5-96e6-48cd-a199-e6bd32f49c05)
 
    ### 📄 Link para o arquivo doc com as histórias
   [arquivo_doc_historias](https://docs.google.com/document/d/1KayEPV1MaKPZ35tbp7ELZTTsZCNPEVOBjSXBdGyzNq4/edit?usp=sharing)
 
   ### ✅ Quadro da sprint
-  ![sprint](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/sprint_historias.png)
-
+   ![sprint1](https://github.com/user-attachments/assets/1436020e-0ea8-4a6b-9b40-537f327c8c4e) <br>
+   ![quadro_sprint1](https://github.com/user-attachments/assets/b8c205c4-55c5-4d3c-91c2-3b1896264c9d)
+   ![quadro_sprint2](https://github.com/user-attachments/assets/4073efb8-2f2b-4b92-9a62-8bf8865c3174)
+   
   ### ⚙️🛠 Protótipos no Figma:
   [História 1: Home(Inicio/Cardápio)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=118-664&t=lUaHGZnOo4t34knr-1) <br>
   [Historia 2 e 3: Basket(Carrinho)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=1-10&t=lUaHGZnOo4t34knr-1) <br>
   [Historia 4: Orders(Pedidos)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=168-526&t=lUaHGZnOo4t34knr-1)<br>
   [Historia 5: Contact(Contato)](https://www.figma.com/design/h5uNU0gpRIxWJsk2XRndn6/SushiEmCasa?node-id=0-1&t=lUaHGZnOo4t34knr-1)<br>
- Este projeto foi criado para demonstrar o protótipo de baixa fidelidade da aplicação web do SushiEmCasa, seguindo as histórias. Para acessá-lo basta: <br>
+  
+  Este projeto foi criado para demonstrar o protótipo de baixa fidelidade da aplicação web do SushiEmCasa, seguindo as histórias. Para acessá-lo basta: <br>
  -Clicar no link da história que deseja acessar<br>
  -Se você não tiver uma conta no Figma, crie uma conta gratuita.<br>
  -Abra o arquivo no Figma e explore as diferentes telas e componentes.<br>
-![Exemplo](https://github.com/begnp/SushiEmCasa/blob/main/docs/images/figma-prototipo1.png)
 
  ### ▶️ ScreenCast do Protótipo no Youtube:
  [screencast](https://youtu.be/U1-svoPBy7I?si=bfKGpyERBseCtbzY)
