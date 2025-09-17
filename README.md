@@ -28,7 +28,7 @@
  -Abra o arquivo no Figma e explore as diferentes telas e componentes.<br>
 
  ### ▶️ ScreenCast do Protótipo no Youtube:
- [screencast](https://youtu.be/U1-svoPBy7I?si=bfKGpyERBseCtbzY)
+ [screencast](https://www.youtube.com/watch?v=nLVxSyNgRZY)
   
 
 </details>
